@@ -59,8 +59,8 @@
 
 .cardpurchase {
   background-color: #e2e2e2;
+  margin-top: 100px;
   margin-bottom:none;
-  padding: 30px;
+  padding: 3rem 9rem 2rem 9rem !important;
   text-align: center;
 }
-
