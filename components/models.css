@@ -1,5 +1,5 @@
 .bannerparis {
-	background-image: linear-gradient(rgba(0,0,0,0.4), rgba(255,255,255,0.2)), url(../../images/JolainParis2.png);
+	background-image: linear-gradient(rgba(0,0,0,0.4), rgba(255,255,255,0.2)), url(./../images/JolainParis2.png);
 	color: white;
 	padding-top: 40px;
 	padding-left: 90px;
@@ -13,7 +13,7 @@
 
 
 .bannerlisbon {
-	background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url(../../images/JolainLisbon2.png);
+	background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url(./../images/JolainLisbon2.png);
 	color: white;
 	padding-top: 90px;
 	padding-left: 90px;
@@ -25,7 +25,7 @@
 
 
 .bannermelbourne {
-	background-image: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)), url(../../images/JolainMelbourne2.png);
+	background-image: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)), url(./../images/JolainMelbourne2.png);
 	color: white;
 	padding: 50px; 
 	background-position: 5% 55%;
