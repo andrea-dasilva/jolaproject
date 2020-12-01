@@ -1,0 +1,16 @@
+.btn-blue {
+	background-color: #094956;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 4px;
+	font-family: Ubuntu, sans-serif;
+	transition: color 0.10s;
+
+}
+
+.btn-blue:hover {
+	background-color: #cee5ac;
+	color: grey;
+}
+
+
