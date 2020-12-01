@@ -62,7 +62,7 @@
   margin-right: auto;
   width: 100%;
   justify-content: center;
-
+  padding-left: 0px;
 }
 
 .list-inline li {
