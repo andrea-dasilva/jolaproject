@@ -54,18 +54,20 @@
 }
 
 
-
 .list-inline {
   list-style: none;
-  padding-bottom: 50px;
   display: flex;
   flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  justify-content: center;
 
 }
 
 .list-inline li {
   display: inline;
-  padding: 10px 30px;
+  padding: 10px 50px;
 }
 
 .list-inline p {
