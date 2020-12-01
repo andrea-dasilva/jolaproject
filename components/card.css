@@ -3,7 +3,7 @@
   padding: 20px;
   align-items: center;
   justify-content: space-between;
-  background-image: url(../../images/card-blue.png);
+  background-image: url(./../images/card-blue.png);
   background-position: bottom;
   background-size: cover;
 }
