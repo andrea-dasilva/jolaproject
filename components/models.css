@@ -53,23 +53,22 @@
 	font-weight: bolder;
 }
 
+
+
 .list-inline {
   list-style: none;
-  padding-left: 0px;
   padding-bottom: 50px;
-  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
 
 }
 
 .list-inline li {
   display: inline;
-  padding: 20px;
+  padding: 10px 80px;
 }
 
 .list-inline p {
-  display: inline;
   font-size:15px;
   color: #094956;
-  padding: 20px;
 }
-
